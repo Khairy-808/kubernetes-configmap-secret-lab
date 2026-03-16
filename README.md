@@ -200,4 +200,7 @@ Using **ConfigMaps and Secrets** improves security, maintainability, and scalabi
 
 ---
 
+
 ⭐ Part of my Kubernetes learning journey.
+
+Author: Mohannad Khairy
